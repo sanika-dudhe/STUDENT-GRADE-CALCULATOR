@@ -26,4 +26,4 @@ Loops (for or while for input collection)
 Conditionals (if-else for grade assignment)
 Mathematical Operations (Summation, Division for Percentage Calculation)
 
-*OUTPUT*:
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/983f2736-1491-44d8-9bed-b0220b9df4e7)
